@@ -10,15 +10,15 @@ Graph Convolutional Networks (GCNs) are designed for processing graph-structured
 ### Visuals
 Here are some visuals from our project:
 
-1. **Input Data Visualization**
+1. **1**
 ![image](https://github.com/user-attachments/assets/8f90a861-221b-44c2-9776-561a7fd2b19d)
-2. **Graph Construction**
+2. **2**
 ![image](https://github.com/user-attachments/assets/114420e4-591a-4b2e-9d6d-6db3ff22cabb)
-3. **Training Process**
+3. **3**
 ![image](https://github.com/user-attachments/assets/9647db3c-3e62-45d3-83b1-b822ad060bd9)
-4. **Action Recognition Output**
+4. **4**
 ![image](https://github.com/user-attachments/assets/85dce64f-8071-4873-a2a5-c801ef392a92)
-5. **Emotion Recognition Output**
+5. **5**
 ![image](https://github.com/user-attachments/assets/cb6c8324-8940-4b74-bad2-02e7fc2ceddc)
 ![image](https://github.com/user-attachments/assets/ba143f57-0d4a-4d1a-aabd-dcec531bc817)
 
