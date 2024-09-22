@@ -23,10 +23,3 @@ Here are some visuals from our project:
 ![image](https://github.com/user-attachments/assets/ba143f57-0d4a-4d1a-aabd-dcec531bc817)
 
 
-### Usage
-Clone the repository and install dependencies:
-```bash
-git clone <repository-url>
-cd <repository-directory>
-pip install -r requirements.txt
-
