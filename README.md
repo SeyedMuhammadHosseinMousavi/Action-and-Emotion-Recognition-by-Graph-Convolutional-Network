@@ -5,7 +5,7 @@ Introduction
 Graph Convolutional Networks (GCNs) are designed for processing graph-structured data. This project applies GCNs to recognize actions and emotions, showcasing their ability to interpret complex datasets.
 
 ### Research
-[ResearchGate Link]10.13140/RG.2.2.26563.62240
+[ResearchGate Link](10.13140/RG.2.2.26563.62240)
 
 ### Visuals
 Here are some visuals from our project:
