@@ -7,7 +7,7 @@ Graph Convolutional Networks (GCNs) are designed for processing graph-structured
 ### Research
 [ResearchGate](10.13140/RG.2.2.26563.62240)
 
-### Gallery
+### Visuals
 Here are some visuals from our project:
 
 1. **Input Data Visualization**
