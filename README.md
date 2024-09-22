@@ -20,6 +20,6 @@ Here are some visuals from our project:
 ![image](https://github.com/user-attachments/assets/85dce64f-8071-4873-a2a5-c801ef392a92)
 5. **5**
 ![image](https://github.com/user-attachments/assets/cb6c8324-8940-4b74-bad2-02e7fc2ceddc)
-![image](https://github.com/user-attachments/assets/ba143f57-0d4a-4d1a-aabd-dcec531bc817)
+![image](https://github.com/user-attachments/assets/48b83354-6ed6-49d8-8037-0772d81f691b)
 
 
