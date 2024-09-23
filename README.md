@@ -1,6 +1,6 @@
 # Action-and-Emotion-Recognition-by-Graph-Convolutional-Network
 Graph Deep Learning Course Presentation - Action and Emotion Recognition by Graph Convolutional Network(GCN)
-Introduction
+Introduction. It was my capstone project of the GDL cource in the Universita Della Svizzera Italiana (USI).
 ### Introduction
 Graph Convolutional Networks (GCNs) are designed for processing graph-structured data. This project applies GCNs to recognize actions and emotions, showcasing their ability to interpret complex datasets.
 
