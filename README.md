@@ -1,4 +1,7 @@
 # Action-and-Emotion-Recognition-by-Graph-Convolutional-Network
+#
+May 2024 / University of Lugano / Switzerland
+#
 Graph Deep Learning Course Presentation - Action and Emotion Recognition by Graph Convolutional Network(GCN)
 Introduction. It was my capstone project of the GDL cource in the Universita Della Svizzera Italiana (USI).
 ### Introduction
